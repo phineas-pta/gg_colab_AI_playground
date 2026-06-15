@@ -1,6 +1,7 @@
 colab jupyter notebooks to try out some AI models
 
 - Chinese → Vietnamese web-novel translation  [![Open In Colab][colab-badge]][colab-notebook-transZhVi]
+- more advanced translation with LLM [![Open In Colab][colab-badge]][colab-notebook-transLLM]
 - OpenAI’s Whisper [![Open In Colab][colab-badge]][colab-notebook-whisper]
 - text generation playground [![Open In Colab][colab-badge]][colab-notebook-llm]
 
@@ -8,3 +9,4 @@ colab jupyter notebooks to try out some AI models
 [colab-notebook-whisper]: <https://colab.research.google.com/github/phineas-pta/gg_colab_AI_playground/blob/main/whisper.ipynb>
 [colab-notebook-llm]: <https://colab.research.google.com/github/phineas-pta/gg_colab_AI_playground/blob/main/LLM.ipynb>
 [colab-notebook-transZhVi]: <https://colab.research.google.com/github/phineas-pta/gg_colab_AI_playground/blob/main/trans_ZH_VI.ipynb>
+[colab-notebook-transLLM]: <https://colab.research.google.com/github/phineas-pta/gg_colab_AI_playground/blob/main/trans_LLM.ipynb>
