@@ -6,6 +6,10 @@ colab jupyter notebooks to try out some AI models
 - TTS with OmniVoice [![Open In Colab][colab-badge]][notebook-omnivoice]
 - text generation playground [![Open In Colab][colab-badge]][notebook-llm]
 
+command to check gpu: `nvidia-smi`
+
+command to collect debug info: `python -m torch.utils.collect_env`
+
 [colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
 [notebook-whisper]: <https://colab.research.google.com/github/phineas-pta/gg_colab_AI_playground/blob/main/whisper.ipynb>
 [notebook-llm]: <https://colab.research.google.com/github/phineas-pta/gg_colab_AI_playground/blob/main/LLM.ipynb>
